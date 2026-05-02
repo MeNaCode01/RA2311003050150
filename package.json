@@ -1,0 +1,24 @@
+{
+  "name": "evaluation-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeNaCode01/RA2311003050150.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/MeNaCode01/RA2311003050150/issues"
+  },
+  "homepage": "https://github.com/MeNaCode01/RA2311003050150#readme"
+}
